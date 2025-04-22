@@ -85,7 +85,7 @@ I diagramed the following four tables:
 - vendor
 - vendor_inventory
 
- <img src="./images/01_farmers_market_logical_model_partial.png" width="500">
+<img src="./images/01_farmers_market_logical_model_partial.png" width="500">
 
 
 #### Prompt 1:
